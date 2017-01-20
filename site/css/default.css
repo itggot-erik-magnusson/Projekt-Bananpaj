@@ -29,6 +29,12 @@ aside {
     display: none;
 }
 
+header {
+    background-color: #abcdef;
+    margin: 5px;
+    flex-grow: 2;
+}
+
 nav {
     background-color: #abcdef;
     margin: 5px;
@@ -38,11 +44,17 @@ nav {
 .content {
     background-color: #abcdef;
     margin: 5px;
-    flex-grow: 5;
+    flex-grow: 6;
 }
+
 footer {
     background-color: #abcdef;
     margin: 5px;
-    flex-grow: 1;
+    flex-grow: 2;
 }
+
+.headerImg {
+
+}
+
 
